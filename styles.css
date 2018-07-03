@@ -1,0 +1,21 @@
+.center-red
+{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.chart {
+    width: 100px;
+    height: 100px;
+}
+
+.circ1 {
+    stroke: green;
+    fill: white;
+    stroke-width: 5;
+}
+.image {
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
